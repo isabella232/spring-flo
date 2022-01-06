@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="collapse-handle" viewBox="0 0 24 24">
-  <line x1="4" y1="4" x2="20" y2="20" stroke="black" stroke-width="8" stroke-linecap="round"/>
-  <line x1="20" y1="4" x2="4" y2="20" stroke="black" stroke-width="8" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" class="collapse-handle" version="1.1" viewBox="0 0 24 24"><line x1="4" x2="20" y1="4" y2="20" stroke="#000" stroke-linecap="round" stroke-width="8"/><line x1="20" x2="4" y1="4" y2="20" stroke="#000" stroke-linecap="round" stroke-width="8"/></svg>
